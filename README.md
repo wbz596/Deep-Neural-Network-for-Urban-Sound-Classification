@@ -7,6 +7,19 @@ Sound is one of the vital informatics indicating activities, events and even saf
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Methods
 1. Our idea is to apply multilayer neural network using Tensorflow in Python to classify each sound clip into a different category. 
 
@@ -16,4 +29,4 @@ Sound is one of the vital informatics indicating activities, events and even saf
 # Experiment
 1. We used batch gradient descent optimizer, which means weight vectors are updated once after taking all samples into account. 
 
-2. To do multiple runs, we randomly selected around 70% of the whole dataset as our training data for each run. The cost curve can be calculated for each run. 
+2. To do multiple runs, we randomly selected around 70% of the whole dataset as our training data for each run. The cost curve can be calculated for each ru
