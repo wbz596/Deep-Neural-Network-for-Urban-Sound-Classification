@@ -5,7 +5,7 @@ Sound is one of the vital informatics indicating activities, events and even saf
 <img src="https://raw.githubusercontent.com/wbz596/img/master/Picture1.png?token=ALIMGIGS2HME327X4COEITC7IGUXY" width="50%" height="50%">
 
 # Feature Selection
-<img src="https://raw.githubusercontent.com/wbz596/img/master/Picture2.png?token=ALIMGIA6EJOAFHFFR3O5H3S7IGUFQ" width="50%" height="50%">
+<img src="https://raw.githubusercontent.com/wbz596/img/master/Picture2.png?token=ALIMGICXZHJJ4SNKWVNWEKC7IGU2U" width="50%" height="50%">
 <img src="https://raw.githubusercontent.com/wbz596/img/master/Picture3.png?token=ALIMGIBYIRLS4XDMKOVK7JK7IGUIS" width="50%" height="50%">
 
 # Methods
