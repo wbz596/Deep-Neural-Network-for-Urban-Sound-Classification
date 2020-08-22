@@ -4,6 +4,10 @@ Sound is one of the vital informatics indicating activities, events and even saf
 # Urban Sound Category
 <img src="https://raw.githubusercontent.com/wbz596/img/master/Picture1.png?token=ALIMGIHQUY3WJGMCILH7DPC7IGTLO" width="50%" height="50%">
 
+# Feature Selection
+<img src="https://raw.githubusercontent.com/wbz596/img/master/Picture2.png?token=ALIMGIA6EJOAFHFFR3O5H3S7IGUFQ" width="50%" height="50%">
+<img src="https://raw.githubusercontent.com/wbz596/img/master/Picture3.png?token=ALIMGIBYIRLS4XDMKOVK7JK7IGUIS" width="50%" height="50%">
+
 # Methods
 1. Our idea is to apply multilayer neural network using Tensorflow in Python to classify each sound clip into a different category. 
 
@@ -14,3 +18,4 @@ Sound is one of the vital informatics indicating activities, events and even saf
 1. We used batch gradient descent optimizer, which means weight vectors are updated once after taking all samples into account. 
 
 2. To do multiple runs, we randomly selected around 70% of the whole dataset as our training data for each run. The cost curve can be calculated for each ru
+3.Confusion matrix is calculated to describe the performance of the classifier on a set of test data for which the true values are known. We normalize the confusion matrix so that it contains only numbers between 0 and 1. The diagonal elements of the normalized confusion matrix represent the number of points for which the predicted label is equal to the true label, while off-diagonal elements are those that are mislabeled by the classifier.
