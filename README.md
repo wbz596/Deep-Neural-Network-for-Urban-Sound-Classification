@@ -2,7 +2,7 @@
 Sound is one of the vital informatics indicating activities, events and even safety issues. UrbanSound database library (https://urbansounddataset.weebly.com/index.html#welcome) is an open dataset source that offers several classes of sound data with audio files in each class. In this project, based on deep neural networks and using the UrbanSound database, the group aims to develop a framework to identify each sound class in urban areas accurately and improve classification performance. 
 
 # Urban Sound Category
-![Image](https://raw.githubusercontent.com/wbz596/img/master/Picture1.png?token=ALIMGIHQUY3WJGMCILH7DPC7IGTLO)
+<img src="https://raw.githubusercontent.com/wbz596/img/master/Picture1.png?token=ALIMGIHQUY3WJGMCILH7DPC7IGTLO" width="50%" height="50%">
 
 # Methods
 1. Our idea is to apply multilayer neural network using Tensorflow in Python to classify each sound clip into a different category. 
