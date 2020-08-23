@@ -5,8 +5,8 @@ Sound is one of the vital informatics indicating activities, events and even saf
 <img src="https://raw.githubusercontent.com/wbz596/Urban-Sound-Classifier/master/img/Picture1.png" width="50%" height="50%">
 
 # Feature Selection
-<img src="https://raw.githubusercontent.com/wbz596/img/master/Picture2.png?token=ALIMGICXZHJJ4SNKWVNWEKC7IGU2U" width="50%" height="50%">
-<img src="https://raw.githubusercontent.com/wbz596/img/master/Picture3.png?token=ALIMGIBQVVUHOYQ4M7R3YVK7IGU7S" width="50%" height="50%">
+<img src="https://raw.githubusercontent.com/wbz596/Urban-Sound-Classifier/master/img/Picture2.png" width="50%" height="50%">
+<img src="https://raw.githubusercontent.com/wbz596/Urban-Sound-Classifier/master/img/Picture3.png" width="50%" height="50%">
 
 # Methods
 1. Our idea is to apply multilayer neural network using Tensorflow in Python to classify each sound clip into a different category. 
